@@ -92,10 +92,10 @@ jupyter-lab
 9. Run the following command:
 
 10. ```
-   conda deactivate env
-   conda activate env
-   jupyter-lab
-   ```
+    conda deactivate env
+    conda activate env
+    jupyter-lab
+    ```
 
 11. Copy the paste the locahost link in your favourite browser or use the deafult opening session
 
@@ -110,8 +110,7 @@ jupyter-lab
 
 ## PROJECT PITCH: BRAIN LATERALIZATION WITH TVB
 
-1. Gslide link:
-2. https://docs.google.com/presentation/d/1YpiHleC8f8lZhKPKnpfugt4eJYZsPDnQ0pxA8P6aRmY/edit?usp=sharing
+1. Gslide link: https://docs.google.com/presentation/d/1YpiHleC8f8lZhKPKnpfugt4eJYZsPDnQ0pxA8P6aRmY/edit?usp=sharing
 
 ## BIBLIOGRAPHY
 
